@@ -10,7 +10,7 @@
 </head>  
 <body>
 
-<form action="index.php" enctype="multipart/form-data" method="POST"> 
+<form action="upload-handler.php" enctype="multipart/form-data" method="POST"> 
 <h1> Registration Form </h1>
 <label> Complete Name </label>         
 <input type="text" name="completename" required /> <br> <br>  
